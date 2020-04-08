@@ -1,1 +1,5 @@
 "Add your favorite quote to the quotes.txt file"
+Here are some more quotes
+quote 1
+quote 2
+quote 3
